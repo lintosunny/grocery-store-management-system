@@ -1,4 +1,11 @@
 # grocery-store-management-system
+![ui-home](docs/ui-home.png)
+![ui-products](docs/ui-products.png)
+![ui-order](docs/ui-order.png)
+![ui-add-products](docs/ui-add-product.png)
+
+## Architecture
+![arch](docs/architecture.png)
 
 ## Database Schema
 
