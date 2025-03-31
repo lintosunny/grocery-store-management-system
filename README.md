@@ -21,10 +21,16 @@ pip install -r requirements.txt
 ```
 
 ### setup env variables
-create ```.env``` file in your root directory and insert the following details;
+create ```.env``` file in your root directory and insert the following details; 127.0.0.1 is local host, change if needed.
 ```
 DB_USER="username<like root>"
 DB_PASSWORD="your_password"
-DB_HOST="host <like 127.0.0.1>"
+DB_HOST="127.0.0.1"
 DB_NAME="database_name"
 ```
+
+
+## Additional steps
+* Add unit test
+* Deploy on cloud
+* Code review
